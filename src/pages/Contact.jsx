@@ -62,9 +62,9 @@ function Contact() {
               <WhatsAppIcon className="wpIcon" /> {t("wp_sub")}
             </p>
 
-            <a href="https://wa.me/905550644012" target="_blank">
-              <h2>+90 555 064 40 12</h2>
-              <p>Ali Rabiei - Founder of MegaLemon and Senior Designer</p>
+            <a href="https://wa.me/905340367033" target="_blank">
+              <h2>+90 534 036 70 33</h2>
+              <p>Sultan Gökçe - Founder of MegaLemon and Senior Designer</p>
             </a>
           </div>
           <div className="emails">
